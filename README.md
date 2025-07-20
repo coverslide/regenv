@@ -41,5 +41,3 @@ To build the executable, run:
 ```
 go build
 ```
-
-```
